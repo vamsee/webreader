@@ -1,10 +1,10 @@
 # WebReader
 
-WebReader is a simple app that brings readability to Android mobiles. Usually the fonts on mobiles are quite small, and most sites don't make an effort to make their sites mobile-friendly. WebReader borrows some of the code from the excellent [Readability project](http://lab.arc90.com/experiments/readability/) and tries to adapt it to mobile use. The app itself is quite simple, since there is no easy way to add a javascript bookmarklet in the default browser that comes with Android phones, this app installs the bookmarklet in the user's bookmarks, and he can just select the bookmark whenever he/she wants to be able to read a website a little more comfortably. More details and screenshots are [here](http://webreader.vamsee.in). 
+WebReader is a simple app that brings readability to Android mobile devices. Usually the fonts on mobiles are quite small, and most sites don't make an effort to make their sites mobile-friendly. WebReader borrows some of the code from the excellent [Readability project](http://lab.arc90.com/experiments/readability/) and tries to adapt it to mobile use. The app itself is quite simple, since there is no easy way to add a javascript bookmarklet in the default browser that comes with Android phones, this app installs the bookmarklet in the user's bookmarks, and he can just select the bookmark whenever he/she wants to be able to read a website a little more comfortably. More details and screenshots are [here](http://webreader.vamsee.in). 
 
 # About
 
-Currently WebReader has only been tested until Android 1.6. I'm in the process of updating the app to work on more recent versions, please be patient (or you can help by forking it, of course).
+Currently WebReader has only been tested until Android 1.6. I'm in the process of updating the app to work on more recent versions, please be patient (or you can help by forking it, of course). Also, the current js (see assets directory) code that does all the magic is based on an earlier version of Readability. Updates are coming for this too.
 
 ## Licence
 

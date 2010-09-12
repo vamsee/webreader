@@ -10,7 +10,7 @@ Currently WebReader has only been tested until Android 1.6. I'm in the process o
 
 Readability uses the Apache Licence (2.0), so that's what I'm going to use.
 
-Copyright 2009 Vamsee Kanakala (vkanakala@gmail.com)
+Copyright 2009 Vamsee Kanakala &lt;vkanakala@gmail.com&gt;
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

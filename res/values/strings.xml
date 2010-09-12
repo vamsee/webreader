@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">WebReader</string>
+  <string name="what_it_is">What it is</string>
+  <string name="intro">
+    WebReader cleans up the webpage you are viewing and makes it instantly more readable.
+  </string>
+  <string name="ht_header">
+    How to use
+  </string>
+  <string name="howto">
+    Just choose WebReader from your browser bookmarks while viewing a site. Wait a couple of seconds, voila! instant web readability.
+  </string>
+  <string name="cb_text">Add/remove bookmark</string>
+</resources>
